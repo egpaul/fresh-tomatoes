@@ -28,7 +28,7 @@ This should open your default webbrowser with "Eric's Favorite Mob Movies.
 
 <h2>License</h2>
 
-This program is licnesed under the MIT License see the - LICENSE.md file for details 
+This program is licnesed under the MIT License see the - [LICENSE.md](fresh-tomatoes-/LICENSE) file for details 
 
 <h2>Acknowledgments</h2>
 
